@@ -25,4 +25,4 @@ function sayHiToGrandma(string) {
   }
 }
 
-sayHiToGrandma("hello");
+sayHiToGrandma("I love you, Grandma.");
